@@ -1,4 +1,4 @@
-#Tue Feb 18 16:03:39 BRT 2020
-base.0=/home/bruno/Documentos/minhapp/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+#Wed Feb 19 10:48:47 BRT 2020
+base.0=/home/bruno/Documentos/aog-flutter/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
 path.0=classes.dex
 renamed.0=classes.dex
