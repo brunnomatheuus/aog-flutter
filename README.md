@@ -11,3 +11,14 @@ O objetivo deste APP foi estudar os conceitos básicos do Dart/Flutter, tendo em
 - Mudança de cor ao clicar para calcular e ao clicar para calcular novamente.
 
 ## Imagens do APP
+### Tela inicial 
+
+![image1](https://github.com/brunnomatheuus/aog-flutter/blob/master/assets/images/tela1.png)
+
+### Digitando valores 
+
+![image2](https://github.com/brunnomatheuus/aog-flutter/blob/master/assets/images/tela2.png)
+
+### Resultado 
+
+![image3](https://github.com/brunnomatheuus/aog-flutter/blob/master/assets/images/tela3.png)
